@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail of a screenshot of The Cat and the Coup, a videogame by Peter
   Brinson and Kurosh ValaNejad. Used with permission.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-615-games-for-social-change-fall-2013/17469da73947ce8fe034ca8146ac7c96_cms-615f13-th.jpg
+file: /media/courses/cms-615-games-for-social-change-fall-2013/17469da73947ce8fe034ca8146ac7c96_cms-615f13-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Detail of a screenshot of [The Cat and the Coup](http://www.thecatandthecoup.com/),
@@ -10,6 +10,8 @@ image_metadata:
   credit: Used with permission.
   image-alt: The ghost of Mohammed Mossadegh shuffles sadly through a phantasmagoric
     protest of Persian bricolage. But where is his cat?
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: The Cat and the Coup (thumbnail)
 uid: 17469da7-3947-ce8f-e034-ca8146ac7c96
