@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A list of "serious" games with publisher and date information.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Serious Games
