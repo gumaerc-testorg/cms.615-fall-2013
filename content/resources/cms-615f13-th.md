@@ -11,10 +11,10 @@ image_metadata:
   image-alt: The ghost of Mohammed Mossadegh shuffles sadly through a phantasmagoric
     protest of Persian bricolage. But where is his cat?
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: The Cat and the Coup (thumbnail)
 uid: 17469da7-3947-ce8f-e034-ca8146ac7c96
 ---
 Thumbnail of a screenshot of The Cat and the Coup, a videogame by Peter Brinson and Kurosh ValaNejad. Used with permission.
-
