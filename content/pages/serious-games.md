@@ -27,7 +27,7 @@ PUBLISHERS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Against All Odds](http://www.playagainstallodds.ca/)
+{{% resource_link "5328c1d7-9f0a-491c-90f5-4bb8f68055b9" "Against All Odds" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 2005
@@ -45,7 +45,7 @@ Funders: Microsoft, Ericsson, Datareal AB
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Darfur is Dying](http://www.gamesforchange.org/game/darfur-is-dying/)
+{{% resource_link "879c6766-e902-4b05-97bb-037370c481be" "Darfur is Dying" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 2006
@@ -57,7 +57,7 @@ interFUEL, LLC (Take Action games)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Gray](http://www.intuitiongames.com/gray/)
+{{% resource_link "d0e57fc0-2523-4e27-8be8-ca5a9639e0f4" "Gray" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 2009
@@ -69,7 +69,7 @@ Intuition games
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Hush](http://www.jamieantonisse.com/hush/about.html)
+{{% resource_link "57486fc1-2442-43a2-bb2c-bef29525c9fe" "Hush" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 2007–8
@@ -81,7 +81,7 @@ Jaimie Antonisse
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Peter Packet Game](http://www.cisco.com/web/learning/netacad/peterpacket2/NewBuild_forweb/default.htm)
+{{% resource_link "54e803ce-3627-449e-80d0-a6baefd44271" "Peter Packet Game" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 2004
@@ -93,7 +93,7 @@ Creative Learning Studio at Cisco Systems Inc.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Precipice](http://precipice.altereddreams.net/index.html)
+{{% resource_link "3f52a301-5946-4888-b2c7-2efecf2f44bf" "Precipice" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 2009
@@ -105,7 +105,7 @@ Centre for Digital Media
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Re–Mission](http://www.re-mission.net/)
+{{% resource_link "ede7cc5f-e6d9-47d3-ad44-20ee7269c07f" "Re–Mission" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 2006
@@ -117,7 +117,7 @@ HopeLab
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[September 12th: A Toy World](https://www.gamesforchange.org/game/september-12th-a-toy-world/)
+{{% resource_link "efce1cee-5864-45db-accd-397715f1c8e9" "September 12th: A Toy World" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 2003
@@ -129,7 +129,7 @@ Newsgaming, Gonzalo Frasca
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[The Cat and the Coup](http://coup.peterbrinson.com/)
+{{% resource_link "4f387a1b-892d-4751-86d3-33894bf03027" "The Cat and the Coup" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 2011
@@ -141,7 +141,7 @@ Peter Brinson, Kurosh ValaNejad
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Ulitsa Dimitrova](http://www.ulitsa-dimitrova.com/)
+{{% resource_link "e0b2897c-4ced-41ad-b146-f1ce59b563be" "Ulitsa Dimitrova" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 2010
@@ -153,7 +153,7 @@ Lea Schönfelder and Gerard Delmàs
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[McDonald's Game](https://molleindustria.org/mcdonalds/)
+{{% resource_link "1d83ad18-619c-4ed0-b875-e5e00fc6b26c" "McDonald's Game" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 2006
