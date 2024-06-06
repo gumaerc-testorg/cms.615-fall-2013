@@ -12,7 +12,7 @@ uid: 4b4885f2-f77b-a454-5fb1-fba1c14d4451
 Required Texts
 --------------
 
-\[JH\] = Hunter, John. _World Peace and Other 4th-Grade Achievements_. Houghton Mifflin Harcourt, 2013. ISBN: 9780547905594. \[Preview with {{% resource_link "e572950b-ac9a-4be6-b4ad-5f1fd1a81ef9" "Google Books" %}}\]
+\[JH\] = Hunter, John. _World Peace and Other 4th-Grade Achievements_. Houghton Mifflin Harcourt, 2013. ISBN: 9780547905594. \[Preview with [Google Books](http://books.google.com/books?id=bVxN2v1u1yQC&pg=PAfrontcover)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -41,7 +41,7 @@ Introduction
 
 Interviews
 
-Hunter, John. {{% resource_link "018b29b5-0e83-4df5-841f-0af79f365662" "_Teaching with the World Peace Game_" %}}. TED Talk. TED.com. March, 2011.
+Hunter, John. [_Teaching with the World Peace Game_](https://www.ted.com/talks/john_hunter_on_the_world_peace_game#t-601747). TED Talk. TED.com. March, 2011.
 
 
 {{< tdclose >}}
@@ -77,7 +77,7 @@ What are they are good for?
 
 Screening
 
-{{% resource_link "85765cb5-a97d-4e76-94ef-d9b0423e17f1" "_World Peace and Other 4th-Grade Achievements_" %}}. Directed by Chris Farina. Color, 60 min. 2010.
+[_World Peace and Other 4th-Grade Achievements_](http://www.imdb.com/title/tt1612140/). Directed by Chris Farina. Color, 60 min. 2010.
 
 
 {{< tdclose >}}
@@ -122,7 +122,7 @@ Homework: Play Game from List, Write Short (2 page) Game Assessment Paper
 
 \[JH\] Finish reading before class.
 
-Mitgutsch, Konstantin, and Narda Alvarado. {{% resource_link "21321489-40a7-4e97-bbf9-ea209b71c89b" "\"Purposeful by Design? A Serious Game Design Assessment Framework.\" (PDF - 3.0MB)" %}} _Proceedings of the International Conference on the Foundations of Digital Games_. ACM 121–28.
+Mitgutsch, Konstantin, and Narda Alvarado. ["Purposeful by Design? A Serious Game Design Assessment Framework." (PDF - 3.0MB)](http://gambit.mit.edu/readme/academic_papers/fdg2012_submission_82-1.pdf) _Proceedings of the International Conference on the Foundations of Digital Games_. ACM 121–28.
 
 
 {{< tdclose >}}
@@ -135,7 +135,7 @@ Mitgutsch, Konstantin, and Narda Alvarado. {{% resource_link "21321489-40a7-4e97
 {{< tdopen >}}
 
 
-Guest Lecture: {{% resource_link "b011a63b-b91c-4752-92e7-3fccc2cff05e" "Sasha Costanza-Chock" %}}, Assistant Professor of Civic Media, MIT, Comparative Media Studies
+Guest Lecture: [Sasha Costanza-Chock](http://schock.cc/), Assistant Professor of Civic Media, MIT, Comparative Media Studies
 
 _\[JH\] Part 2 & Mitgutsch reading response due_
 
@@ -240,9 +240,9 @@ Workshop: World Peace Game Project
 {{< tdopen >}}
 
 
-Rubbermuck. "Ian Bogost on Serious Gaming." March 7, 2011_._ You Tube_. ABC Fora_. Talk. X-Media Lab, 2009. {{% resource_link "7d2d9922-215c-4288-9ba5-65d959f217ea" "https://www.youtube.com/watch?v=uTK2oIJx8Po" %}}
+Rubbermuck. "Ian Bogost on Serious Gaming." March 7, 2011_._ You Tube_. ABC Fora_. Talk. X-Media Lab, 2009. [https://www.youtube.com/watch?v=uTK2oIJx8Po](https://www.youtube.com/watch?v=uTK2oIJx8Po)
 
-Sicart, Miguel. "{{% resource_link "bad8e3c1-8da8-4177-afbe-d998b361c3f8" "Against Procedurality" %}}." _Game Studies_ 11, no. 3 (2011).
+Sicart, Miguel. "[Against Procedurality](http://gamestudies.org/1103/articles/sicart_ap)." _Game Studies_ 11, no. 3 (2011).
 
 
 {{< tdclose >}}
@@ -274,7 +274,7 @@ _Bogost and Sicart reading response due_
 Workshop: World Peace Game Project
 {{< tdclose >}}
 {{< tdopen >}}
-Linderoth, Jonas. {{% resource_link "b77a0b73-2ac7-4b62-b44f-efb351c505fd" "\"Beyond the Digital Divide: An Ecological Approach to Gameplay.\" (PDF - 4.3MB)" %}} _Transactions of the Digital Games Research Association_ 1, no. 1 (2013).
+Linderoth, Jonas. ["Beyond the Digital Divide: An Ecological Approach to Gameplay." (PDF - 4.3MB)](http://www.digra.org/wp-content/uploads/digital-library/11307.03263.pdf) _Transactions of the Digital Games Research Association_ 1, no. 1 (2013).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -345,7 +345,7 @@ Alpha Presentations
 {{< tdopen >}}
 
 
-Guest Lecture: {{% resource_link "44ffd7f9-9a69-43c1-a0fa-a21aea6b005c" "Eric Gordon" %}}, Executive Director, Emerson
+Guest Lecture: [Eric Gordon](https://www.emerson.edu/faculty-staff-directory/eric-gordon), Executive Director, Emerson
 
 College Engagement Lab
 
@@ -354,9 +354,9 @@ College Engagement Lab
 {{< tdopen >}}
 
 
-GamesforChange. "Keynote: Eric Zimmerman." June 26, 2013. You Tube. {{% resource_link "b0cb28e4-198b-423b-a4ae-e16943e46ead" "https://www.youtube.com/watch?v=zRVa2Q5bq5o" %}}
+GamesforChange. "Keynote: Eric Zimmerman." June 26, 2013. You Tube. [https://www.youtube.com/watch?v=zRVa2Q5bq5o](https://www.youtube.com/watch?v=zRVa2Q5bq5o)
 
-{{% resource_link "b905feb8-dc36-4b52-834f-bd623fd076dd" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Flanagan, Mary. "Introduction to Critical Play," "Critical Computer Games," and "Designing for Critical Play." In _Critical Play: Radical Game Design_. MIT Press, 2013. ISBN: 9780262518659. \[Preview with {{% resource_link "1f42d2a7-f1f5-4cba-8bc0-75ad88731f44" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262518659) Flanagan, Mary. "Introduction to Critical Play," "Critical Computer Games," and "Designing for Critical Play." In _Critical Play: Radical Game Design_. MIT Press, 2013. ISBN: 9780262518659. \[Preview with [Google Books](http://books.google.com/books?id=-VXH43WH5Z4C&pg=PA1=onepage)\]
 
 
 {{< tdclose >}}
