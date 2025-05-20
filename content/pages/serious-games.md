@@ -68,7 +68,7 @@ HopeLab
 {{< tdclose >}}{{< tdopen >}}
 Newsgaming, Gonzalo Frasca
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[The Cat and the Coup](http://coup.peterbrinson.com/)
+[The Cat and the Coup](http://thecatandthecoup.com/)
 {{< tdclose >}}{{< tdopen >}}
 2011
 {{< tdclose >}}{{< tdopen >}}
