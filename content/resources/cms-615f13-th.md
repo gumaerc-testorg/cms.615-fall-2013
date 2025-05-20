@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail of a screenshot of The Cat and the Coup, a videogame by Peter
   Brinson and Kurosh ValaNejad. Used with permission.
-file: /ol-ocw-studio-app/courses/cms-615-games-for-social-change-fall-2013/17469da73947ce8fe034ca8146ac7c96_cms-615f13-th.jpg
+file: /courses/cms-615-games-for-social-change-fall-2013/17469da73947ce8fe034ca8146ac7c96_cms-615f13-th.jpg
 file_size: 5313
 file_type: image/jpeg
 image_metadata:
