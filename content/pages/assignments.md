@@ -17,7 +17,7 @@ Game Assessment
 
 ### Due: Session 7
 
-Play one of the games from the {{% resource_link 8e06f664-783b-4d8c-7be9-55fb26ab3ef0 "serious games" %}} list, and write a 2 page assessment using the criteria described in the [Mitgutsch (PDF - 3.0MB)](http://gambit.mit.edu/readme/academic_papers/fdg2012_submission_82-1.pdf) article. Along with preparing your assessment paper, please come to class prepared to speak for about 5 minutes about your assessment. In your paper you should factor in all the criteria of the assessment framework, but for your presentation, just be prepared to talk about one or two salient criteria of the frameworks by which your game either succeeded or failed.
+Play one of the games from the {{% resource_link 8e06f664-783b-4d8c-7be9-55fb26ab3ef0 "serious games" %}} list, and write a 2 page assessment using the criteria described in the {{% resource_link "4ad025e5-c589-4e6c-b0d9-929e403f386b" "Mitgutsch (PDF - 3.0MB)" %}} article. Along with preparing your assessment paper, please come to class prepared to speak for about 5 minutes about your assessment. In your paper you should factor in all the criteria of the assessment framework, but for your presentation, just be prepared to talk about one or two salient criteria of the frameworks by which your game either succeeded or failed.
 
 Reflection on Prototype Experience
 ----------------------------------
